@@ -20,7 +20,7 @@ aws secretsmanager create-secret --region us-east-1 --name TriviaGitHubToken --s
 
 ## Customize
 
-Replace all references to 'aws-samples' with your own fork of this repo.  Replace all references to 'reinvent-trivia.com' with your own domain name.
+Replace all references to 'aws-samples' with your own fork of this repo.  Replace all references to 'jakedecrane.com' with your own domain name.
 
 ## Deploy
 

@@ -24,5 +24,4 @@ phases:
       # Deploy via the CDK
       - cd ../cdk
       - npm run build
-      - cdk bootstrap aws://788601987176/us-east-1
       - npm run deploy-infra-$STAGE
